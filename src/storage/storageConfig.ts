@@ -1,4 +1,4 @@
-const GROUP_COLLCTION = '@ignite-teams:groups';
+const GROUP_COLLECTION = '@ignite-teams:groups';
 
 
-export { GROUP_COLLCTION };
+export { GROUP_COLLECTION };
